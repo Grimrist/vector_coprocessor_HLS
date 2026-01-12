@@ -14,6 +14,7 @@ Este repositorio esta estructurado de la siguiente manera:
 - _Vitis_: Archivos fuente HLS (.cpp, .hpp) para las operaciones eucDist y dotProd
 - _Vivado_: Archivos fuente del RTL para el sistema completo del procesador
 - _MATLAB_: Scripts de MATLAB para enviar comandos hacia el co-procesador implementado.
+- _images_: Imágenes utilizadas para este README.
 ## Pragmas utilizados
 Las operaciones eucDist y dotProd utilizan los siguientes pragma:
 
