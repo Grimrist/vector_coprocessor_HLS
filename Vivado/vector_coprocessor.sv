@@ -19,7 +19,7 @@ clk_wiz_0 clk_src (
     .locked()
 );
 
-localparam CLKA_FREQ = 100_000_000;
+localparam CLKA_FREQ = 122_000_000;
 
 // SIPO RAM instances
 logic [MEMORY_WIDTH-1:0] d_in;
